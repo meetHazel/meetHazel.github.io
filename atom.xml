@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume 💕</title>
-    <updated>2020-06-03T04:25:36.121Z</updated>
+    <updated>2020-06-03T04:26:59.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://meethazel.github.io/images/avatar.png</logo>
     <icon>https://meethazel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hazel&apos;s online resume 💕</rights>
+    <entry>
+        <title type="html"><![CDATA[test 2]]></title>
+        <id>https://meethazel.github.io/post/test-2/</id>
+        <link href="https://meethazel.github.io/post/test-2/">
+        </link>
+        <updated>2020-06-03T04:26:40.000Z</updated>
+        <content type="html"><![CDATA[<p>???</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://meethazel.github.io/post/hello-gridea/</id>
