@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-06T11:34:45.529Z</updated>
+    <updated>2020-06-06T17:03:14.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -563,12 +563,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solo Learn - Certificates ]]></title>
+        <title type="html"><![CDATA[证书合集]]></title>
         <id>https://meethazel.github.io/post/solo-learn-certificates/</id>
         <link href="https://meethazel.github.io/post/solo-learn-certificates/">
         </link>
         <updated>2020-06-05T04:56:49.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="font-color869d9d-html-fundamental-certificatefont"><font color=#869D9D> HTML Fundamental Certificate</font></h3>
+        <content type="html"><![CDATA[<h2 id="tabletrtd-bgcolordae4e6font-colorgraysolo-learn-certificatesfonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>Solo Learn Certificates</font></td></tr></table></h2>
+<h3 id="font-color869d9d-html-fundamental-certificatefont"><font color=#869D9D> HTML Fundamental Certificate</font></h3>
 <figure data-type="image" tabindex="1"><img src="https://meethazel.github.io/post-images/1591419666283.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-color869d9dcss-fundamental-certificatefont"><font color=#869D9D>CSS Fundamental Certificate</font></h3>
@@ -576,6 +577,22 @@
 <hr>
 <h3 id="font-color869d9dsql-fundamental-certificatefont"><font color=#869D9D>SQL Fundamental Certificate</font></h3>
 <figure data-type="image" tabindex="3"><img src="https://meethazel.github.io/post-images/1591419713443.jpg" alt="" loading="lazy"></figure>
+<hr>
+<h2 id="tabletrtd-bgcolordae4e6font-colorgraymos-masterfonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>MOS Master</font></td></tr></table></h2>
+<figure data-type="image" tabindex="4"><img src="https://meethazel.github.io/post-images/1591462047745.jpeg" alt="" loading="lazy"></figure>
+<hr>
+<figure data-type="image" tabindex="5"><img src="https://meethazel.github.io/post-images/1591462067370.jpeg" alt="" loading="lazy"></figure>
+<hr>
+<h2 id="tabletrtd-bgcolordae4e6font-colorgray腾讯公司-实习证明fonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>腾讯公司-实习证明</font></td></tr></table></h2>
+<figure data-type="image" tabindex="6"><img src="https://meethazel.github.io/post-images/1591462413795.jpeg" alt="" loading="lazy"></figure>
+<hr>
+<h2 id="tabletrtd-bgcolordae4e6竞赛获奖font-colorgrayfonttdtrtable"><table><tr><td bgcolor=#DAE4E6>竞赛获奖<font color=gray></font></td></tr></table></h2>
+<figure data-type="image" tabindex="7"><img src="https://meethazel.github.io/post-images/1591462527463.jpeg" alt="" loading="lazy"></figure>
+<hr>
+<h2 id="tabletrtd-bgcolordae4e6校先进个人类font-colorgrayfonttdtrtable"><table><tr><td bgcolor=#DAE4E6>校先进个人类<font color=gray></font></td></tr></table></h2>
+<figure data-type="image" tabindex="8"><img src="https://meethazel.github.io/post-images/1591462839786.jpeg" alt="" loading="lazy"></figure>
+<hr>
+<figure data-type="image" tabindex="9"><img src="https://meethazel.github.io/post-images/1591462846793.jpeg" alt="" loading="lazy"></figure>
 <hr>
 <p><strong>申明：本人郑重承诺以上内容不存在任何作假、抄袭行为。</strong></p>
 <hr>
