@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-06T07:58:45.564Z</updated>
+    <updated>2020-06-06T08:07:35.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Hazel&apos;s online resume💕</rights>
     <entry>
         <title type="html"><![CDATA[核心技能篇]]></title>
-        <id>https://meethazel.github.io/post/basic skills/</id>
-        <link href="https://meethazel.github.io/post/basic skills/">
+        <id>https://meethazel.github.io/basic skills/</id>
+        <link href="https://meethazel.github.io/basic skills/">
         </link>
         <updated>2020-06-06T04:00:41.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="h2font-color5e7987hazel-的核心产品能力fonth2"><h2><font color=#5E7987>Hazel 的核心产品能力</font></h2></h2>
@@ -150,8 +150,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[加分技能篇]]></title>
-        <id>https://meethazel.github.io/post/extra skills/</id>
-        <link href="https://meethazel.github.io/post/extra skills/">
+        <id>https://meethazel.github.io/extra skills/</id>
+        <link href="https://meethazel.github.io/extra skills/">
         </link>
         <updated>2020-06-06T02:24:58.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="font-color9fa39a-hazel-的加分技能font"><font color=#9FA39A> Hazel 的加分技能</font></h2>
@@ -239,13 +239,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hazel 的作品清单]]></title>
-        <id>https://meethazel.github.io/post/hazel-de-zuo-pin-qing-dan/</id>
-        <link href="https://meethazel.github.io/post/hazel-de-zuo-pin-qing-dan/">
+        <id>https://meethazel.github.io/hazel-de-zuo-pin-qing-dan/</id>
+        <link href="https://meethazel.github.io/hazel-de-zuo-pin-qing-dan/">
         </link>
         <updated>2020-06-05T07:32:33.000Z</updated>
-        <summary type="html"><![CDATA[<p>💕<strong>温馨提示</strong>：点击作品链接名即可跳转到作品展示界面。链接确保安全，请放心点击。</p>
+        <summary type="html"><![CDATA[<p align="center">
+<p>💕<strong>温馨提示</strong>：点击作品链接名即可跳转到作品展示界面。链接确保安全，请放心点击。</p></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>💕<strong>温馨提示</strong>：点击作品链接名即可跳转到作品展示界面。链接确保安全，请放心点击。</p>
+        <content type="html"><![CDATA[<p align="center">
+<p>💕<strong>温馨提示</strong>：点击作品链接名即可跳转到作品展示界面。链接确保安全，请放心点击。</p></p>
 <!-- more -->
 <hr>
 <h3 id="tabletrtd-bgcolor869d9dfont-colorwhite个人博客网站fonttdtrtable"><table><tr><td bgcolor=#869D9D><font color=white>个人博客网站</font></td></tr></table></h3>
@@ -261,12 +263,17 @@
 <p><a href="https://docs.qq.com/pdf/DZWFpbVRRUFd3amZN"><font size=small color=#A2D39B>腾讯商业模式分析</font></a></p>
 <h3 id="tabletrtd-bgcolor869d9dfont-colorwhite其他作品fonttdtrtable"><table><tr><td bgcolor=#869D9D><font color=white>其他作品</font></td></tr></table></h3>
 <p><a href=""><font color=#A2D39B>产品灵感清单</font></a></p>
+<hr>
+<p><strong>申明：本人郑重承诺以上内容不存在任何作假、抄袭行为。</strong></p>
+<hr>
+<h2 id="h2font-color5e7987基本信息fonth2"><h2><font color=#5E7987>基本信息</font></h2></h2>
+<p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏 - 产品介绍 V1.2.1]]></title>
-        <id>https://meethazel.github.io/post/introduction of Jiancang V1.2.1/</id>
-        <link href="https://meethazel.github.io/post/introduction of Jiancang V1.2.1/">
+        <id>https://meethazel.github.io/introduction of Jiancang V1.2.1/</id>
+        <link href="https://meethazel.github.io/introduction of Jiancang V1.2.1/">
         </link>
         <updated>2020-06-05T06:08:50.000Z</updated>
         <content type="html"><![CDATA[<h2 id="壹-关于剪藏">壹 | 关于【剪藏】</h2>
@@ -459,8 +466,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏-流程图 V1.1.2]]></title>
-        <id>https://meethazel.github.io/post/flowcharts of Jiancang/</id>
-        <link href="https://meethazel.github.io/post/flowcharts of Jiancang/">
+        <id>https://meethazel.github.io/flowcharts of Jiancang/</id>
+        <link href="https://meethazel.github.io/flowcharts of Jiancang/">
         </link>
         <updated>2020-06-05T06:07:53.000Z</updated>
         <content type="html"><![CDATA[<h3 id="font-colorb598a1-初次打开剪藏appfont"><font color=#B598A1> 初次打开剪藏APP</font></h3>
@@ -483,8 +490,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[产品灵感清单 V2.1.1]]></title>
-        <id>https://meethazel.github.io/post/inspiration list/</id>
-        <link href="https://meethazel.github.io/post/inspiration list/">
+        <id>https://meethazel.github.io/inspiration list/</id>
+        <link href="https://meethazel.github.io/inspiration list/">
         </link>
         <updated>2020-06-05T05:04:30.000Z</updated>
         <summary type="html"><![CDATA[<hr>
@@ -555,8 +562,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Solo Learn - Certificates ]]></title>
-        <id>https://meethazel.github.io/post/solo-learn-certificates/</id>
-        <link href="https://meethazel.github.io/post/solo-learn-certificates/">
+        <id>https://meethazel.github.io/solo-learn-certificates/</id>
+        <link href="https://meethazel.github.io/solo-learn-certificates/">
         </link>
         <updated>2020-06-05T04:56:49.000Z</updated>
         <content type="html"><![CDATA[<h3 id="font-color869d9d-html-fundamental-certificatefont"><font color=#869D9D> HTML Fundamental Certificate</font></h3>
