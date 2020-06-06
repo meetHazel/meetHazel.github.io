@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-05T14:14:39.319Z</updated>
+    <updated>2020-06-06T02:44:53.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -11,19 +11,93 @@
     <icon>https://meethazel.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Hazel&apos;s online resume💕</rights>
     <entry>
+        <title type="html"><![CDATA[加分技能篇]]></title>
+        <id>https://meethazel.github.io/post/jia-fen-ji-neng-pian/</id>
+        <link href="https://meethazel.github.io/post/jia-fen-ji-neng-pian/">
+        </link>
+        <updated>2020-06-06T02:24:58.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="font-color9fa39a-hazel-的加分技能font"><font color=#9FA39A> Hazel 的加分技能</font></h2>
+<p><font color=#9FA39A>
+<p><strong>代码思维</strong>：掌握多种代码语言的基础知识，具备一定的代码阅读能力，对其实现原理、前中后台交互逻辑有一定的了解。</p>
+<p><strong>运营思维</strong>：有过一段运营的实习经历，具备良好的产品运营思维，并能够将其用于产品的功能设计，从而实现闭环。</p>
+<p><strong>创新能力</strong>：具备发散性思维，想法天马行空。能于细节处发现产品灵感，并将其用于产品设计。</p>
+<p><strong>输出能力</strong>：善于归纳和思考，掌握系统化思考的能力，并拥有良好的口头和书面表达能力。</p>
+<p><strong>抗压能力</strong>：具备强大的抗压能力和随机应变能力，对项目赶工、进度压缩情况有丰富的处理经验。</font></p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="font-color9fa39a-hazel-的加分技能font"><font color=#9FA39A> Hazel 的加分技能</font></h2>
+<p><font color=#9FA39A>
+<p><strong>代码思维</strong>：掌握多种代码语言的基础知识，具备一定的代码阅读能力，对其实现原理、前中后台交互逻辑有一定的了解。</p>
+<p><strong>运营思维</strong>：有过一段运营的实习经历，具备良好的产品运营思维，并能够将其用于产品的功能设计，从而实现闭环。</p>
+<p><strong>创新能力</strong>：具备发散性思维，想法天马行空。能于细节处发现产品灵感，并将其用于产品设计。</p>
+<p><strong>输出能力</strong>：善于归纳和思考，掌握系统化思考的能力，并拥有良好的口头和书面表达能力。</p>
+<p><strong>抗压能力</strong>：具备强大的抗压能力和随机应变能力，对项目赶工、进度压缩情况有丰富的处理经验。</font></p>
+<!-- more -->
+<h2 id="壹-代码思维">壹 | 代码思维</h2>
+<table><tr><td bgcolor=#869D9D><font color=white>概述</font></td></tr></table>
+<p>通过长期的自学和实战，目前已系统掌握了包括<strong>Web前端（HTML+CSS+ JavaScript）、React前端</strong>在内的基础知识。</p>
+<p>具备基本的<strong>代码阅读能力</strong>，对<strong>代码实现原理、前中后台交互逻辑</strong>均有一定程度的了解。</p>
+<table><tr><td bgcolor=#869D9D><font color=white>体现点1：</font></td></tr></table>
+<p>持续在<strong>Solo Learn、Codecademy</strong>等平台进行系统性学习，通过<strong>知识点输入与代码输出相结合</strong>的方式，提高自己的<strong>代码阅读和实现能力</strong>；</p>
+<p>[<font color=#A2D39B>Solo Learn Certificates</font>]</p>
+<table><tr><td bgcolor=#869D9D><font color=white>体现点2：</font></td></tr></table>
+<p>日常在<strong>GitHub、CSDN</strong>等平台上探索<strong>优秀开源软件</strong>，学习现有的<strong>接口规范</strong>等，为产品设计打好基础。</p>
+<table><tr><td bgcolor=#869D9D><font color=white>体现点3：</font></td></tr></table>
+<p>阅读大量产品技术相关的书籍或文章，如**《给产品经理讲技术》<strong>等 ，掌握了</strong>PM必备的技术知识**，如高频的技术术语、需求的实现逻辑、流行的编程语言等。</p>
+<hr>
+<h2 id="贰-运营思维">贰| 运营思维</h2>
+<table><tr><td bgcolor=#C8ADC4><font color=white>概述</font></td></tr></table>
+<p>具备良好的产品运营思维。在产品设计过程中会<strong>考虑可能的运营方式</strong>，以更好地<strong>实现产品功能设计的闭环</strong>。</p>
+<p>日常关注热点案例，并思考<strong>热点背后的运营逻辑</strong>以及可能的产品机会。</p>
+<table><tr><td bgcolor=#C8ADC4><font color=white>体现</font></td></tr></table>
+<p><font color=#8076A3>实习经历：</font></p>
+<p><strong>腾讯公司-CISG部门-企鹅辅导产品运营</strong></p>
+<p><font color=#8076A3>实习收获：</font></p>
+<p>实习内容围绕“企鹅辅导用户增长”展开，因此在推进运营活动时，不仅要精准把握用户需求，更是要基于运营效果调整下一次的推广策划。</p>
+<p><strong>在这个闭环中</strong>，<strong>策划活动更像是在思考产品的功能，而运营则像是一个验证的过程</strong>。<strong>产品的功能设计与运营展开的效果、用户的反馈数据密切相关</strong>。</p>
+<hr>
+<h2 id="叁-创新能力">叁 | 创新能力</h2>
+<table><tr><td bgcolor=#8ABCD1><font color=white>概述</font></td></tr></table>
+<p><strong>想法天马行空，具备发散性思维</strong>。善于将<strong>不同维度</strong>下的产品功能/设计联系起来，并思考新的商业模式或交互模式。</p>
+<table><tr><td bgcolor=#8ABCD1><font color=white>体现点1：</font></td></tr></table>
+<p>擅长<strong>于细节处发现产品灵感</strong>，并思考可能的实现方式。</p>
+<p>[<font color=#A2D39B>产品灵感清单 P1</font>]</p>
+<table><tr><td bgcolor=#8ABCD1><font color=white>体现点2：</font></td></tr></table>
+<p>个人作品【剪藏】的部分界面和功能设计参考的并不是同类的稍后阅读产品，而是参考了Google Keep、Notebook、Card.note等笔记类软件。<strong>而两种不同维度的产品设计理念碰撞，便产生了无限的可能性</strong>。</p>
+<hr>
+<h2 id="肆-输出能力">肆 | 输出能力</h2>
+<table><tr><td bgcolor=#88B888><font color=white>概述</font></td></tr></table>
+<p>具备<strong>清晰的口头和书面表达能力</strong>，善于<strong>归纳和整理</strong>，能够将日常碎片化的思考输出为经系统整理后的文章、作品等。</p>
+<table><tr><td bgcolor=#88B888><font color=white>体现</font></td></tr></table>
+<p><a href="http://www.always.ink"><font color=#A2D39B>个人博客网站 | Hazel’s grocery store</font></a></p>
+<p><a href="http://www.always.ink"><font color=#A2D39B>剪藏——产品介绍 V1.1（尚未整理）</font></a></p>
+<hr>
+<h2 id="伍-抗压能力">伍 | 抗压能力</h2>
+<table><tr><td bgcolor=#A7A8BD><font color=white>概述</font></td></tr></table>
+<p>具备<strong>强大的抗压能力</strong>，以<strong>自我驱动</strong>为导向。</p>
+<p>当面对项目赶工或进度压缩时，能够<strong>以大局为重</strong>，通过<strong>调整项目进度安排、团队加班</strong>的方式，尽可能完成预期目标。</p>
+<table><tr><td bgcolor=#A7A8BD><font color=white>体现点1：</font></td></tr></table>
+<p>在繁重的学业压力下，也能够处理好<strong>专业课学习和技能学习</strong>之间的平衡。一方面按部就班完成专业课学习，并取得<strong>加权前5%<strong>的成绩；另一方面有序地完成产品技能的学习，并搭建了</strong>完整的产品知识体系</strong>。</p>
+<table><tr><td bgcolor=#A7A8BD><font color=white>体现点2：</font></td></tr></table>
+<p>在实习或项目进程中，经常面临<strong>赶工、压缩进度</strong>的情况，此时需要进行<strong>Plan B的推进</strong>，以<strong>如期完成项目里程碑任务</strong>。这一过程锻炼了自己的抗压和随机应变能力，也积累了自己的方法论。</p>
+<hr>
+<h2><font color=#5E7987>基本信息</font></h2>
+<p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[核心技能篇]]></title>
         <id>https://meethazel.github.io/post/basic skills/</id>
         <link href="https://meethazel.github.io/post/basic skills/">
         </link>
         <updated>2020-06-05T04:00:41.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="h2font-color5e7987hazel具备的核心产品能力fonth2"><h2><font color=#5E7987>Hazel具备的核心产品能力</font></h2></h2>
+        <summary type="html"><![CDATA[<h2 id="h2font-color5e7987hazel-的核心产品能力fonth2"><h2><font color=#5E7987>Hazel 的核心产品能力</font></h2></h2>
 <p><font color=#5E7987>
 <p><strong>人性洞察能力</strong>：具备同理心、换位思考能力，善于发掘用户潜在需求。</p>
 <p><strong>商业思维能力</strong>：善于思考产品背后的商业逻辑，敢于突破和创新。</p>
 <p><strong>必备专业技能</strong>：对产品架构掌握程度较高，擅长需求分析与撰写，掌握Axure、Visio等必备技能，具有较强的数据分析能力。</p>
 <p><strong>项目管理能力</strong>：理性决策能力，超高的执行力，善于沟通交流，具备必要的时间管理和项目推进能力，有良好的项目复盘习惯。</font></p></p>
 ]]></summary>
-        <content type="html"><![CDATA[<h2 id="h2font-color5e7987hazel具备的核心产品能力fonth2"><h2><font color=#5E7987>Hazel具备的核心产品能力</font></h2></h2>
+        <content type="html"><![CDATA[<h2 id="h2font-color5e7987hazel-的核心产品能力fonth2"><h2><font color=#5E7987>Hazel 的核心产品能力</font></h2></h2>
 <p><font color=#5E7987>
 <p><strong>人性洞察能力</strong>：具备同理心、换位思考能力，善于发掘用户潜在需求。</p>
 <p><strong>商业思维能力</strong>：善于思考产品背后的商业逻辑，敢于突破和创新。</p>
@@ -143,51 +217,5 @@
 <hr>
 <h2><font color=#5E7987>基本信息</font></h2>
 <p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hazel做产品  |  核心技能篇]]></title>
-        <id>https://meethazel.github.io/post/test-2/</id>
-        <link href="https://meethazel.github.io/post/test-2/">
-        </link>
-        <updated>2020-06-03T04:26:40.000Z</updated>
-        <summary type="html"><![CDATA[<h3><font color=#B4D0E7> 基本信息</font></h3>
-<p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>
-<h2 id="壹-人性洞察能力">壹 | 人性洞察能力</h2>
-]]></summary>
-        <content type="html"><![CDATA[<h3><font color=#B4D0E7> 基本信息</font></h3>
-<p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>
-<h2 id="壹-人性洞察能力">壹 | 人性洞察能力</h2>
-<!-- more -->
-<p>体现点</p>
-<blockquote>
-<p>项目角度：</p>
-<p>①</p>
-<p>产品理念：<strong>用心感受生活中的每一件小事，并让产品改善生活。</strong></p>
-<p>论证：</p>
-<p><strong>项目</strong>：江西省第七届“华创杯”市场调研分析大赛 | 队员</p>
-<p>体现：</p>
-<p><strong>概述</strong>：论证了原选题（小红书的“社群经济”模式）的低探究性，并提出**“切合生活，服务民 众”**这一切入点，从而确定最终选题——“垃圾场对周边居民生活质量的影响”这一选题。</p>
-<p>详述：该选题灵感来源于本人对周边居民及学生日常吐槽内容的<strong>留心观察</strong>，结合非随机抽样的调查结果，并基于**”让产品回归生活“<strong>的初心，提出了该选题并成功说服团队。在团队的共同努力下，最终取得了</strong>省决赛一等奖**的佳绩。</p>
-<p>收获：</p>
-<p><strong>当你在为他人思考时，其实也在思考你的产品。当产品能够解决他人的问题时，才是真正体现其价值的时候。</strong></p>
-<p>②</p>
-<p>项目：创新创意赛 —— 单独文章中展示</p>
-<p>理念：<strong>如果连身边的人都不了解，又谈何了解你的用户？</strong></p>
-<p>具体（考虑篇幅） —— TBD —— 如果篇幅受限，考虑在末尾说明：由于篇幅原因，其他的体现点已归类整理到 ____ 文章，如果您有时间或者感兴趣，不妨移步看看，相信会让您对我有更加全面的了解。（TBD）</p>
-<hr>
-<p>实战角度：</p>
-<p>③</p>
-<p>实习经历：腾讯公司-CISG部门-腾讯企鹅辅导运营</p>
-<p>理念：</p>
-<p><strong>很多时候，和用户对话，其实也是在和自己、和产品对话。而当能够站在他们的角度思考问题时，才是真正对话的开始。</strong></p>
-<p>体现：</p>
-<p>确定高中生群体的用户画像，先行对该群体的兴趣爱好、基本概况等做了基本的了解，在正式活动策划过程中，充分考虑他们当下的利益诉求和突破点，对症下药，策划并成功推进了如”高分直播课“（<strong>提分需求</strong>）、”学长学姐分享会“（<strong>择校需求</strong>）、”匿名吐槽大会“（<strong>解压需求</strong>）等多场大型活动。</p>
-<p>成果：</p>
-<p>最终三个运营群的增长量突破4000，累计运营活动次数达20次，并形成了良好的群内生态和KOL管理机制，留存率达30%，转化率达20%，超额完成KPI指标。【？？】</p>
-<p>收获：</p>
-<p><strong>同理心，在很多情况下都是必要的。<strong>它不是简单地站在用户的视角看问题，而是</strong>站在用户的角度思考问题</strong>。只有这样，才能发现他们的潜在需求。这个过程要的不仅仅是执行力，还有敏锐的洞察力。</p>
-<p><s>很多时候，只有你真正站在用户的角度为他们思考问题了，才能发现症结所在，发现他们的需求所在，这个时候再对症下药，就能事半功倍。——  换位思考，是 发现需求的第一步</s></p>
-</blockquote>
-]]></content>
     </entry>
 </feed>
