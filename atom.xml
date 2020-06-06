@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-06T17:06:20.664Z</updated>
+    <updated>2020-06-06T17:13:50.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -179,7 +179,7 @@
 <p>具备基本的<strong>代码阅读能力</strong>，对<strong>代码实现原理、前中后台交互逻辑</strong>均有一定程度的了解。</p>
 <table><tr><td bgcolor=#869D9D><font color=white>体现点1：</font></td></tr></table>
 <p>持续在<strong>Solo Learn、Codecademy</strong>等平台进行系统性学习，通过<strong>知识点输入与代码输出相结合</strong>的方式，提高自己的<strong>代码阅读和实现能力</strong>；</p>
-<p><a href="http://hazel.always.ink/post/solo-learn-certificates/"><font color=#A2D39B>Solo Learn Certificates</font></a></p>
+<p><a href="http://hazel.always.ink/post/certificates/"><font color=#A2D39B>Solo Learn Certificates</font></a></p>
 <table><tr><td bgcolor=#869D9D><font color=white>体现点2：</font></td></tr></table>
 <p>日常在<strong>GitHub、CSDN</strong>等平台上探索<strong>优秀开源软件</strong>，学习现有的<strong>接口规范</strong>等，为产品设计打好基础。</p>
 <table><tr><td bgcolor=#869D9D><font color=white>体现点3：</font></td></tr></table>
@@ -817,7 +817,7 @@
 </table>
 <hr>
 <h3 id="证书合集">📚 证书合集</h3>
-<p><a href=""><font color=#A2D39B>戳这里查看证书扫描件</font></a></p>
+<p><a href="http://hazel.always.ink/post/certificates/"><font color=#A2D39B>戳这里查看Hazel的证书合集</font></a></p>
 <table> 
 <tr>
 <td bgcolor=#C6DFC8><font color=#A7535A>名称：</font>MOS Master</td>
