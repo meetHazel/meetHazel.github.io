@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-06T17:13:50.824Z</updated>
+    <updated>2020-06-06T17:16:12.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -244,8 +244,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hazel 的作品清单]]></title>
-        <id>https://meethazel.github.io/post/hazel-de-zuo-pin-qing-dan/</id>
-        <link href="https://meethazel.github.io/post/hazel-de-zuo-pin-qing-dan/">
+        <id>https://meethazel.github.io/post/portfolio/</id>
+        <link href="https://meethazel.github.io/post/portfolio/">
         </link>
         <updated>2020-06-05T07:32:33.000Z</updated>
         <summary type="html"><![CDATA[<p align="center">
