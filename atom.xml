@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meethazel.github.io</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2020-06-07T08:37:16.916Z</updated>
+    <updated>2020-06-07T09:52:17.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meethazel.github.io"/>
     <link rel="self" href="https://meethazel.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, Hazel&apos;s online resume💕</rights>
     <entry>
         <title type="html"><![CDATA[核心技能篇]]></title>
-        <id>https://meethazel.github.io/post/basic skills/</id>
-        <link href="https://meethazel.github.io/post/basic skills/">
+        <id>https://meethazel.github.io/basic skills/</id>
+        <link href="https://meethazel.github.io/basic skills/">
         </link>
         <updated>2020-06-06T04:00:41.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=#5E7987>
@@ -148,8 +148,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[加分技能篇]]></title>
-        <id>https://meethazel.github.io/post/extra skills/</id>
-        <link href="https://meethazel.github.io/post/extra skills/">
+        <id>https://meethazel.github.io/extra skills/</id>
+        <link href="https://meethazel.github.io/extra skills/">
         </link>
         <updated>2020-06-06T02:24:58.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=#9FA39A>
@@ -244,8 +244,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hazel 的作品清单]]></title>
-        <id>https://meethazel.github.io/post/portfolio/</id>
-        <link href="https://meethazel.github.io/post/portfolio/">
+        <id>https://meethazel.github.io/portfolio/</id>
+        <link href="https://meethazel.github.io/portfolio/">
         </link>
         <updated>2020-06-05T07:32:33.000Z</updated>
         <summary type="html"><![CDATA[<p align="center">
@@ -277,8 +277,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[产品灵感清单 V2.1.1]]></title>
-        <id>https://meethazel.github.io/post/inspiration list/</id>
-        <link href="https://meethazel.github.io/post/inspiration list/">
+        <id>https://meethazel.github.io/inspiration list/</id>
+        <link href="https://meethazel.github.io/inspiration list/">
         </link>
         <updated>2020-06-05T07:04:30.000Z</updated>
         <summary type="html"><![CDATA[<p align="center">
@@ -346,8 +346,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏 - 产品介绍 V1.2.1]]></title>
-        <id>https://meethazel.github.io/post/introduction of Jiancang V1.2.1/</id>
-        <link href="https://meethazel.github.io/post/introduction of Jiancang V1.2.1/">
+        <id>https://meethazel.github.io/introduction of Jiancang V1.2.1/</id>
+        <link href="https://meethazel.github.io/introduction of Jiancang V1.2.1/">
         </link>
         <updated>2020-06-05T06:08:50.000Z</updated>
         <content type="html"><![CDATA[<h2 id="壹-关于剪藏">壹 | 关于【剪藏】</h2>
@@ -540,8 +540,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏-流程图 V1.1.2]]></title>
-        <id>https://meethazel.github.io/post/flowcharts of Jiancang/</id>
-        <link href="https://meethazel.github.io/post/flowcharts of Jiancang/">
+        <id>https://meethazel.github.io/flowcharts of Jiancang/</id>
+        <link href="https://meethazel.github.io/flowcharts of Jiancang/">
         </link>
         <updated>2020-06-05T06:07:53.000Z</updated>
         <content type="html"><![CDATA[<h3 id="font-colorb598a1-初次打开剪藏appfont"><font color=#B598A1> 初次打开剪藏APP</font></h3>
@@ -564,8 +564,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[证书合集]]></title>
-        <id>https://meethazel.github.io/post/certificates/</id>
-        <link href="https://meethazel.github.io/post/certificates/">
+        <id>https://meethazel.github.io/certificates/</id>
+        <link href="https://meethazel.github.io/certificates/">
         </link>
         <updated>2020-06-05T04:56:49.000Z</updated>
         <content type="html"><![CDATA[<h2 id="tabletrtd-bgcolordae4e6font-colorgraysolo-learn-certificatesfonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>Solo Learn Certificates</font></td></tr></table></h2>
@@ -601,8 +601,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于Hazel]]></title>
-        <id>https://meethazel.github.io/post/about/</id>
-        <link href="https://meethazel.github.io/post/about/">
+        <id>https://meethazel.github.io/about/</id>
+        <link href="https://meethazel.github.io/about/">
         </link>
         <updated>2020-06-04T09:26:52.000Z</updated>
         <content type="html"><![CDATA[<p align="center">💕 欢迎来到Hazel的主页，很高兴遇见你~💕</p>
@@ -844,8 +844,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[核心技能之项目管理]]></title>
-        <id>https://meethazel.github.io/post/Project Management/</id>
-        <link href="https://meethazel.github.io/post/Project Management/">
+        <id>https://meethazel.github.io/Project Management/</id>
+        <link href="https://meethazel.github.io/Project Management/">
         </link>
         <updated>2020-06-03T05:37:12.000Z</updated>
         <content type="html"><![CDATA[<h3 id="tabletrtd-bgcolor8abcd1font-colorwhite决策力-执行力fonttdtrtable"><table><tr><td bgcolor=#8ABCD1><font color=white>决策力 &amp; 执行力</font></td></tr></table></h3>
@@ -890,8 +890,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[核心技能之专业能力]]></title>
-        <id>https://meethazel.github.io/post/professional skills/</id>
-        <link href="https://meethazel.github.io/post/professional skills/">
+        <id>https://meethazel.github.io/professional skills/</id>
+        <link href="https://meethazel.github.io/professional skills/">
         </link>
         <updated>2020-06-03T05:35:37.000Z</updated>
         <content type="html"><![CDATA[<h3 id="tabletrtd-bgcolor8076a3font-colorwhite-sizesmall产品架构认知-需求分析能力fonttdtrtable"><table><tr><td bgcolor=#8076A3><font color=white size=small>产品架构认知 &amp; 需求分析能力</font></td></tr></table></h3>
