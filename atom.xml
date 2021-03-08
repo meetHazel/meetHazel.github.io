@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Hazel-Liu.github.io</id>
+    <id>http://hazel.always.ink</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2021-03-08T14:12:03.712Z</updated>
+    <updated>2021-03-08T15:35:12.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Hazel-Liu.github.io"/>
-    <link rel="self" href="https://Hazel-Liu.github.io/atom.xml"/>
+    <link rel="alternate" href="http://hazel.always.ink"/>
+    <link rel="self" href="http://hazel.always.ink/atom.xml"/>
     <subtitle>梦想有可能成为现实，生活因此而有趣。</subtitle>
-    <logo>https://Hazel-Liu.github.io/images/avatar.png</logo>
-    <icon>https://Hazel-Liu.github.io/favicon.ico</icon>
+    <logo>http://hazel.always.ink/images/avatar.png</logo>
+    <icon>http://hazel.always.ink/favicon.ico</icon>
     <rights>All rights reserved 2021, Hazel&apos;s online resume💕</rights>
     <entry>
         <title type="html"><![CDATA[test文章]]></title>
-        <id>https://Hazel-Liu.github.io/test-wen-zhang/</id>
-        <link href="https://Hazel-Liu.github.io/test-wen-zhang/">
+        <id>http://hazel.always.ink/test-wen-zhang/</id>
+        <link href="http://hazel.always.ink/test-wen-zhang/">
         </link>
         <updated>2021-03-08T14:11:44.000Z</updated>
         <content type="html"><![CDATA[<p>just  a test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[核心技能篇]]></title>
-        <id>https://Hazel-Liu.github.io/basic skills/</id>
-        <link href="https://Hazel-Liu.github.io/basic skills/">
+        <id>http://hazel.always.ink/basic skills/</id>
+        <link href="http://hazel.always.ink/basic skills/">
         </link>
         <updated>2020-06-06T04:00:41.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=#5E7987>
@@ -102,7 +102,7 @@
 <p><a href="http://hazel.always.ink/post/flowcharts%20of%20Jiancang/"><font size=small color=#A2D39B>剪藏-功能流程图 V1.1.2</font></a></p>
 <p><font color=#8076A3><strong>附件：</strong></font></p>
 <p>下图为日常产品思考的一小部分</p>
-<figure data-type="image" tabindex="1"><img src="https://Hazel-Liu.github.io/post-images/1591365759493.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://hazel.always.ink/post-images/1591365759493.png" alt="" loading="lazy"></figure>
 <h3 id="tabletrtd-bgcolor8076a3font-colorwhite需求表达-数据分析能力fonttdtrtable"><table><tr><td bgcolor=#8076A3><font color=white>需求表达 &amp; 数据分析能力</font></td></tr></table></h3>
 <p><font color=#8076A3><strong>总结：</strong></font></p>
 <p>1）熟练掌握<strong>Axure、Visio</strong>操作，熟悉<strong>PRD、BRD</strong>等产品文档，对<strong>交互设计</strong>敏感。能够将需求通过流程图、低/中保真原型图、PRD文档的形式完整、清晰地表达出来。</p>
@@ -157,8 +157,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[加分技能篇]]></title>
-        <id>https://Hazel-Liu.github.io/extra skills/</id>
-        <link href="https://Hazel-Liu.github.io/extra skills/">
+        <id>http://hazel.always.ink/extra skills/</id>
+        <link href="http://hazel.always.ink/extra skills/">
         </link>
         <updated>2020-06-06T02:24:58.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=#9FA39A>
@@ -253,8 +253,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hazel 的作品清单]]></title>
-        <id>https://Hazel-Liu.github.io/portfolio/</id>
-        <link href="https://Hazel-Liu.github.io/portfolio/">
+        <id>http://hazel.always.ink/portfolio/</id>
+        <link href="http://hazel.always.ink/portfolio/">
         </link>
         <updated>2020-06-05T07:32:33.000Z</updated>
         <summary type="html"><![CDATA[<p align="center">
@@ -286,8 +286,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[产品灵感清单 V2.1.1]]></title>
-        <id>https://Hazel-Liu.github.io/inspiration list/</id>
-        <link href="https://Hazel-Liu.github.io/inspiration list/">
+        <id>http://hazel.always.ink/inspiration list/</id>
+        <link href="http://hazel.always.ink/inspiration list/">
         </link>
         <updated>2020-06-05T07:04:30.000Z</updated>
         <summary type="html"><![CDATA[<p align="center">
@@ -355,8 +355,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏 - 产品介绍 V1.2.1]]></title>
-        <id>https://Hazel-Liu.github.io/introduction of Jiancang V1.2.1/</id>
-        <link href="https://Hazel-Liu.github.io/introduction of Jiancang V1.2.1/">
+        <id>http://hazel.always.ink/introduction of Jiancang V1.2.1/</id>
+        <link href="http://hazel.always.ink/introduction of Jiancang V1.2.1/">
         </link>
         <updated>2020-06-05T06:08:50.000Z</updated>
         <content type="html"><![CDATA[<h2 id="壹-关于剪藏">壹 | 关于【剪藏】</h2>
@@ -549,21 +549,21 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[剪藏-流程图 V1.1.2]]></title>
-        <id>https://Hazel-Liu.github.io/flowcharts of Jiancang/</id>
-        <link href="https://Hazel-Liu.github.io/flowcharts of Jiancang/">
+        <id>http://hazel.always.ink/flowcharts of Jiancang/</id>
+        <link href="http://hazel.always.ink/flowcharts of Jiancang/">
         </link>
         <updated>2020-06-05T06:07:53.000Z</updated>
         <content type="html"><![CDATA[<h3 id="font-colorb598a1-初次打开剪藏appfont"><font color=#B598A1> 初次打开剪藏APP</font></h3>
-<figure data-type="image" tabindex="1"><img src="https://Hazel-Liu.github.io/post-images/1591418240765.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://hazel.always.ink/post-images/1591418240765.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-colorb598a1-剪藏功能模块font"><font color=#B598A1> 剪藏功能模块</font></h3>
-<figure data-type="image" tabindex="2"><img src="https://Hazel-Liu.github.io/post-images/1591418248675.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://hazel.always.ink/post-images/1591418248675.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-colorb598a1-添加文章到中转站font"><font color=#B598A1> 添加文章到中转站</font></h3>
-<figure data-type="image" tabindex="3"><img src="https://Hazel-Liu.github.io/post-images/1591418258205.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://hazel.always.ink/post-images/1591418258205.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-colorb598a1-对文章进行剪藏-v20font"><font color=#B598A1> 对文章进行剪藏 V2.0</font></h3>
-<figure data-type="image" tabindex="4"><img src="https://Hazel-Liu.github.io/post-images/1591418265695.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://hazel.always.ink/post-images/1591418265695.jpg" alt="" loading="lazy"></figure>
 <hr>
 <p><strong>申明：本人郑重承诺以上内容不存在任何作假、抄袭行为。</strong></p>
 <hr>
@@ -573,35 +573,35 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[证书合集]]></title>
-        <id>https://Hazel-Liu.github.io/certificates/</id>
-        <link href="https://Hazel-Liu.github.io/certificates/">
+        <id>http://hazel.always.ink/certificates/</id>
+        <link href="http://hazel.always.ink/certificates/">
         </link>
         <updated>2020-06-05T04:56:49.000Z</updated>
         <content type="html"><![CDATA[<h2 id="tabletrtd-bgcolordae4e6font-colorgraysolo-learn-certificatesfonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>Solo Learn Certificates</font></td></tr></table></h2>
 <h3 id="font-color869d9d-html-fundamental-certificatefont"><font color=#869D9D> HTML Fundamental Certificate</font></h3>
-<figure data-type="image" tabindex="1"><img src="https://Hazel-Liu.github.io/post-images/1591419666283.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="http://hazel.always.ink/post-images/1591419666283.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-color869d9dcss-fundamental-certificatefont"><font color=#869D9D>CSS Fundamental Certificate</font></h3>
-<figure data-type="image" tabindex="2"><img src="https://Hazel-Liu.github.io/post-images/1591419686068.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="http://hazel.always.ink/post-images/1591419686068.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h3 id="font-color869d9dsql-fundamental-certificatefont"><font color=#869D9D>SQL Fundamental Certificate</font></h3>
-<figure data-type="image" tabindex="3"><img src="https://Hazel-Liu.github.io/post-images/1591419713443.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://hazel.always.ink/post-images/1591419713443.jpg" alt="" loading="lazy"></figure>
 <hr>
 <h2 id="tabletrtd-bgcolordae4e6font-colorgraymos-masterfonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>MOS Master</font></td></tr></table></h2>
-<figure data-type="image" tabindex="4"><img src="https://Hazel-Liu.github.io/post-images/1591462047745.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://hazel.always.ink/post-images/1591462047745.jpeg" alt="" loading="lazy"></figure>
 <hr>
-<figure data-type="image" tabindex="5"><img src="https://Hazel-Liu.github.io/post-images/1591462067370.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="http://hazel.always.ink/post-images/1591462067370.jpeg" alt="" loading="lazy"></figure>
 <hr>
 <h2 id="tabletrtd-bgcolordae4e6font-colorgray腾讯公司-实习证明fonttdtrtable"><table><tr><td bgcolor=#DAE4E6><font color=gray>腾讯公司-实习证明</font></td></tr></table></h2>
-<figure data-type="image" tabindex="6"><img src="https://Hazel-Liu.github.io/post-images/1591462413795.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="6"><img src="http://hazel.always.ink/post-images/1591462413795.jpeg" alt="" loading="lazy"></figure>
 <hr>
 <h2 id="tabletrtd-bgcolordae4e6竞赛获奖font-colorgrayfonttdtrtable"><table><tr><td bgcolor=#DAE4E6>竞赛获奖<font color=gray></font></td></tr></table></h2>
-<figure data-type="image" tabindex="7"><img src="https://Hazel-Liu.github.io/post-images/1591462527463.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="7"><img src="http://hazel.always.ink/post-images/1591462527463.jpeg" alt="" loading="lazy"></figure>
 <hr>
 <h2 id="tabletrtd-bgcolordae4e6校先进个人类font-colorgrayfonttdtrtable"><table><tr><td bgcolor=#DAE4E6>校先进个人类<font color=gray></font></td></tr></table></h2>
-<figure data-type="image" tabindex="8"><img src="https://Hazel-Liu.github.io/post-images/1591462839786.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="http://hazel.always.ink/post-images/1591462839786.jpeg" alt="" loading="lazy"></figure>
 <hr>
-<figure data-type="image" tabindex="9"><img src="https://Hazel-Liu.github.io/post-images/1591462846793.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="9"><img src="http://hazel.always.ink/post-images/1591462846793.jpeg" alt="" loading="lazy"></figure>
 <hr>
 <p><strong>申明：本人郑重承诺以上内容不存在任何作假、抄袭行为。</strong></p>
 <hr>
@@ -610,8 +610,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[关于Hazel]]></title>
-        <id>https://Hazel-Liu.github.io/about/</id>
-        <link href="https://Hazel-Liu.github.io/about/">
+        <id>http://hazel.always.ink/about/</id>
+        <link href="http://hazel.always.ink/about/">
         </link>
         <updated>2020-06-04T09:26:52.000Z</updated>
         <content type="html"><![CDATA[<p align="center">💕 欢迎来到Hazel的主页，很高兴遇见你~💕</p>
@@ -853,8 +853,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[核心技能之项目管理]]></title>
-        <id>https://Hazel-Liu.github.io/Project Management/</id>
-        <link href="https://Hazel-Liu.github.io/Project Management/">
+        <id>http://hazel.always.ink/Project Management/</id>
+        <link href="http://hazel.always.ink/Project Management/">
         </link>
         <updated>2020-06-03T05:37:12.000Z</updated>
         <content type="html"><![CDATA[<h3 id="tabletrtd-bgcolor8abcd1font-colorwhite决策力-执行力fonttdtrtable"><table><tr><td bgcolor=#8ABCD1><font color=white>决策力 &amp; 执行力</font></td></tr></table></h3>
