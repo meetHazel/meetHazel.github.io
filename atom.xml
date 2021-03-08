@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://hazel.always.ink</id>
     <title>Hazel&apos;s online resume💕</title>
-    <updated>2021-03-08T15:35:12.646Z</updated>
+    <updated>2021-03-08T15:41:30.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://hazel.always.ink"/>
     <link rel="self" href="http://hazel.always.ink/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>http://hazel.always.ink/images/avatar.png</logo>
     <icon>http://hazel.always.ink/favicon.ico</icon>
     <rights>All rights reserved 2021, Hazel&apos;s online resume💕</rights>
-    <entry>
-        <title type="html"><![CDATA[test文章]]></title>
-        <id>http://hazel.always.ink/test-wen-zhang/</id>
-        <link href="http://hazel.always.ink/test-wen-zhang/">
-        </link>
-        <updated>2021-03-08T14:11:44.000Z</updated>
-        <content type="html"><![CDATA[<p>just  a test</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[核心技能篇]]></title>
         <id>http://hazel.always.ink/basic skills/</id>
@@ -896,5 +887,45 @@
 <hr>
 <h2 id="h2font-color5e7987基本信息fonth2"><h2><font color=#5E7987>基本信息</font></h2></h2>
 <p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[核心技能之专业能力]]></title>
+        <id>http://hazel.always.ink/professional skills/</id>
+        <link href="http://hazel.always.ink/professional skills/">
+        </link>
+        <updated>2020-06-03T05:35:37.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="tabletrtd-bgcolor8076a3font-colorwhite-sizesmall产品架构认知-需求分析能力fonttdtrtable"><table><tr><td bgcolor=#8076A3><font color=white size=small>产品架构认知 &amp; 需求分析能力</font></td></tr></table></h3>
+<p><font color=#8076A3><strong>总结：</strong></font></p>
+<p>对<strong>架构设计的五个层次</strong>（业务层、功能层、页面层、逻辑层、数据层）有较为深入的理解，并在实践中不断完善自己的方法论，以提高<strong>需求分析和认知能力</strong>，从而实现知识输入和输出的闭环。</p>
+<p><font color=#8076A3><strong>体现：</strong></font></p>
+<p><strong>APP发烧友</strong> —— 手机应用数达<strong>300+</strong>，热爱研究小众APP，并从五个层次出发，思考其背后的产品逻辑。</p>
+<p><font color=#8076A3><strong>详述：</strong></font></p>
+<p>业务层方面侧重思考<strong>产品的商业模式</strong>，功能方面侧重于<strong>产品的功能布局和创新点</strong>，页面层方面侧重<strong>产品的创意交互设计</strong>，逻辑层侧重思考<strong>产品的功能逻辑和闭环途径</strong>，数据层侧重思考<strong>产品的功能实现、数据流逻辑等</strong>。</p>
+<p><font color=#8076A3><strong>输出：</strong></font></p>
+<p>将日常训练的积累应用于个人作品【剪藏】的架构设计中，完善了产品的功能模块和业务逻辑设计，并在产品的盈利模式、界面呈现以及交互设计方面做出了较大的创新点。</p>
+<p><a href="https://www.wulihub.com.cn/go/QA57xQ/start.html"><font size=small color=#A2D39B>剪藏原型图（基于wulihub托管平台）</font></a></p>
+<p><a href="http://hazel.always.ink/post/flowcharts%20of%20Jiancang/"><font size=small color=#A2D39B>剪藏-功能流程图 V1.1.2</font></a></p>
+<p><font color=#8076A3><strong>附件：</strong></font></p>
+<p>下图为日常产品思考的一小部分</p>
+<figure data-type="image" tabindex="1"><img src="http://hazel.always.ink/post-images/1591365759493.png" alt="" loading="lazy"></figure>
+<hr>
+<h3 id="tabletrtd-bgcolor8076a3font-colorwhite需求表达-数据分析能力fonttdtrtable"><table><tr><td bgcolor=#8076A3><font color=white>需求表达 &amp; 数据分析能力</font></td></tr></table></h3>
+<p><font color=#8076A3><strong>总结：</strong></font></p>
+<p>1）熟练掌握<strong>Axure、Visio</strong>操作，熟悉<strong>PRD、BRD</strong>等产品文档，对<strong>交互设计</strong>敏感。能够将需求通过流程图、低/中保真原型图、PRD文档的形式完整、清晰地表达出来。</p>
+<p>2）对<strong>产品的数据体系搭建</strong>有一定的了解。对数据敏感，并能借助<strong>SQL、Excel-数据透视表</strong>、Microsoft <strong>Power BI</strong>等方式/工具，独立完成数据整理与分析工作。</p>
+<p><font color=#8076A3><strong>体现点1：</strong></font></p>
+<p>历时<strong>两周</strong>，<strong>独立构思并设计</strong>出产品【剪藏】的原型图。“所见即所得”原型图中，主要通过标注的方式说明产品的功能需求和逻辑。PRD即将整理完成。</p>
+<p><font color=#8076A3><strong>体现点2：</strong></font></p>
+<p>目前已掌握包括<strong>数据埋点、ABtest、灰度测试</strong>及各类产品&amp;运营指标在内的知识体系</p>
+<p><font color=#8076A3><strong>体现点3：</strong></font></p>
+<p>1）通过在<strong>Solo Learn平台</strong>的学习，并借助其他的<strong>文章和教学视频</strong>，配合<strong>实战训练</strong>，目前已对SQL的使用较为熟练。</p>
+<p>2）通过历时一个月的<strong>MOS 职场office培训</strong>，掌握了Excel的高级公式、<strong>数据透视表</strong>的灵活应用，曾使用其分析整理上万条数据。</p>
+<p>3）通过自学课程以及实战训练，目前已能借助Power BI 完成<strong>数据清洗</strong>，并实现大量<strong>数据的可视化</strong>。</p>
+<hr>
+<p><strong>申明：本人郑重承诺以上内容不存在任何作假、抄袭行为。</strong></p>
+<hr>
+<h2 id="h2font-color5e7987基本信息fonth2"><h2><font color=#5E7987>基本信息</font></h2></h2>
+<p><font color=#8B8598>姓名：刘芷倩 </br> 电话：18973914687 </br> 邮箱：Hazel_work@outlook.com </br> 求职意向：产品实习</font></p>
+]]></content>
     </entry>
 </feed>
